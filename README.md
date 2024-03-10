@@ -88,7 +88,7 @@
 <body>
     <div class="container">
         <div class="profile">
-            <img src="D:\thienlnded180547\CSI\w3\img\355882937_651796833524083_6995203216835404439_n.jpg" alt="Avatar">
+            <img src="[D:\thienlnded180547\CSI\w3\img\355882937_651796833524083_6995203216835404439_n.jpg](https://www.facebook.com/photo/?fbid=651796836857416&set=pob.100060813166761)" alt="Avatar">
             <h1>Lê Ngọc Thiện</h1>
         </div>
         <div class="info">
